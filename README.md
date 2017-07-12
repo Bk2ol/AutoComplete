@@ -1,7 +1,9 @@
-ajax-search-box
+Auto Complete
 ===============
 
-Ajax Search box using Node and MySQL
+• Build N-Gram Library from Wiki database and language model statistical probability, design a MapReduce program to generate data and store in the database
+• Using JQuery plugin , NodeJS, and ajax to query database to achieve auto completion in webpage search engine
+
 
 Download the code and type
 <code>npm install</code>
@@ -9,6 +11,4 @@ Download the code and type
 Run the code using 
 <code>node Server.js</code>
 
-Live demo : https://www.youtube.com/watch?v=6xEmZGHIHP4&feature=youtu.be
 
-Tutorial link : http://codeforgeek.com/2014/09/ajax-search-box-using-node-mysql/
